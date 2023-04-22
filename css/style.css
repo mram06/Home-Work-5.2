@@ -1,0 +1,110 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    font-family: "TradeGothic";
+}
+*{
+    box-sizing: border-box;
+}
+h1,h2{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+}
+button{
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1440px;
+}
+.title{
+}
+.subtitle{
+}
+.item {
+}
+
+/* support */
+.support {
+}
+.support__body {
+}
+.support__subtitle {
+}
+.support__title {
+}
+.support__row {
+}
+.support__paragraph {
+}
+.support__faq {
+}
+.support__faq-item {
+}
+
+.faq {
+}
+.faq__question {
+}
+.faq__answer {
+}
+
+/* partners */
+.partners {
+}
+.partners__body {
+}
+.partners__subtitle {
+}
+.partners__title {
+}
+.partners__text {
+}
+.partners__item-container {
+}
+.partners__item {
+}
+.partners__item-logo {
+}
+.partners__item-name {
+}
+.partners__item-info {
+}
+.partners__item-button {
+}
+
+/* contact */
+.contact {
+}
+.contact__body {
+}
+.contact__subtitle {
+}
+.contact__title {
+}
+.contact__text {
+}
+.contact__form {
+}
+.contact__form-label {
+}
+.contact__form-btn {
+}
